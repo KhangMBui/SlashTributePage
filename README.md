@@ -1,9 +1,6 @@
 # A Tribute to Slash
 
 ![image](https://github.com/KhangMBui/SlashTributePage/assets/114207962/db74e3f0-1ed3-4afa-aac7-b396eb5e29aa)
-![image](https://github.com/KhangMBui/SlashTributePage/assets/114207962/0d0b034c-5ff3-4f37-9941-20fadc2bccaf)
-![image](https://github.com/KhangMBui/SlashTributePage/assets/114207962/b2dad54e-ca5b-471d-91d9-33016896edcd)
-
 
 
 ## Introduction
@@ -40,3 +37,5 @@ As of now, this tribute page is complete and serves as a static web resource for
 
 Contributions to enhance and refine this tribute page are warmly welcomed. Whether it's fixing a typo or adding new content, please feel free to submit pull requests or open issues to help make this tribute even better.
 
+![image](https://github.com/KhangMBui/SlashTributePage/assets/114207962/0d0b034c-5ff3-4f37-9941-20fadc2bccaf)
+![image](https://github.com/KhangMBui/SlashTributePage/assets/114207962/b2dad54e-ca5b-471d-91d9-33016896edcd)
