@@ -8,6 +8,8 @@ Welcome to "A Tribute to Slash"! This project is a homage to the legendary guita
 
 ## Project Overview
 
+This is a freeCodeCamp certification project. It asks me to do a tribute page. I decided to tribute this project to Slash-one of my all time favorite guitarist, the reason why I pick up the guitar!
+
 This tribute page offers an engaging glimpse into Slash's life and accomplishments. It's structured into the following sections:
 
 - **Header:** Featuring a logo and a concise introduction to Slash.
