@@ -1,6 +1,6 @@
 # A Tribute to Slash
 
-![Slash Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6a87476a-2763-4dd3-94a9-82446b9b1e55/d4yjh1n-837e610f-6692-4ceb-aa68-ccd04abf9ac1.jpg)
+![Slash Image]([https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6a87476a-2763-4dd3-94a9-82446b9b1e55/d4yjh1n-837e610f-6692-4ceb-aa68-ccd04abf9ac1.jpg](https://i.pinimg.com/originals/e8/87/86/e887865c219aba1e8a5306b5f0c23aa4.jpg))
 
 ## Introduction
 
