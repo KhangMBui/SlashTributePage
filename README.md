@@ -24,7 +24,7 @@ This project was crafted using the following technologies:
 
 ## Getting Started
 
-To experience this tribute page firsthand, simply open the `index.html` file in your preferred web browser. You'll be immersed in the world of Slash and his musical legacy.
+To experience this tribute page firsthand, simply open the `tributePage.html` file in your preferred web browser. You'll be immersed in the world of Slash and his musical legacy.
 
 ## Project Status
 
